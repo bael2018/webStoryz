@@ -1,0 +1,25 @@
+
+.sales{
+    margin-top: 45px;
+}
+
+.sales img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.sales_container{
+    margin-top: 25px;
+}
+
+.sales_container h4{
+    margin: 0px;
+    color: #353535;
+}
+
+.sales_container h2{
+    margin: 0px;
+    margin-top: 5px;
+    font-size: 26px;
+    color: #363636;
+}

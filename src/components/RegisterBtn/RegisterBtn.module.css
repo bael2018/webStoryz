@@ -1,0 +1,16 @@
+
+.register{
+    width: 100%;
+    background: #FF3434;
+    color: white;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    cursor: pointer;
+    justify-content: center;
+    height: 60px;
+}
+
+.register h3{
+    margin: 0px;
+}

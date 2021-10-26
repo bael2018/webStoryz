@@ -1,0 +1,28 @@
+
+.place{
+    text-align: center;
+    margin: 100px 0;
+}
+
+.place_image{
+    height: 90px;
+    width: 27%;
+    clip-path: polygon(15% 0, 100% 0, 100% 85%, 85% 100%, 0 100%, 0 15%);
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+    justify-content: center;
+    background:#ECECEC;
+}
+
+.place h3{
+    color: #363636;
+    font-size: 25px;
+    margin: 0px;
+}
+
+.place p{
+    color: #FF3434;
+    font-size: 15px;
+}

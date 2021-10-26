@@ -1,0 +1,55 @@
+
+.user{
+    margin: 0 auto;
+    margin-top: 30px;
+    width: 90%;
+    text-align: center;
+}
+
+.user_title{
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    color: #363636;
+}
+
+.user_content{
+    position: relative;
+}
+
+.user_image{
+    width: 70%;
+}
+
+.mic{
+    background: #000;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    bottom: 120px;
+    left: 60px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.user_content h3{
+    margin: 0px;
+    font-size: 25px;
+    margin-top: 10px;
+    color: #363636;
+}
+
+.user_content p{
+    margin: 0px auto;
+    margin-top: 5px;
+    width: 70%;
+    color: #363636;
+}
+
+@media screen and (max-width: 400px){
+    .mic{
+        left: 40px;
+    }
+    
+}
